@@ -31,7 +31,7 @@ public class Pizza {
         this.isCheeseAdded=false;
         this.isToppingsAdded=false;
         this.ispaperbagAdded=false;
-        this.bill="Base price of the pizza"+this.price+"/n";
+        this.bill="Base Price Of The Pizza: "+this.price+"/n";
     }
 
     public int getPrice(){
